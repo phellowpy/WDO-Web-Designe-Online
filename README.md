@@ -1,4 +1,4 @@
-# WDB - Web Designe Online  <img src="readme-config/WDO.png" wight="20px" height="30px">
+# WDO - Web Designe Online  <img src="readme-config/WDO.png" wight="20px" height="30px">
 
 ## Proposta  <img src="readme-config/WDO.png" wight="20px" height="20px">
 <div style="font-size: 18px;">
