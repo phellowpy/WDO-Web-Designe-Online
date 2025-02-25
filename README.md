@@ -16,8 +16,8 @@ Nosso banco de dados foi feito na proposta de atender o cliente da forma mais ra
 
 </div>
 <br>
-<img src="readme-config/bc-3.png">
 <img src="readme-config/bc-4.png">
+<img src="readme-config/bc-3.png">
 
 ## Design  <img src="readme-config/WDO.png" wight="20px" height="20px">
 
