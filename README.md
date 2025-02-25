@@ -1,4 +1,4 @@
-# WDB - Web Designe Online  <img src="WDO.png" wight="20px" height="30px">
+# WDB - Web Designe Online  <img src="readme-config/WDO.png" wight="20px" height="30px">
 
 ## Proposta  <img src="WDO.png" wight="20px" height="20px">
 <div style="font-size: 18px;">
@@ -24,46 +24,47 @@ Nosso banco de dados foi feito na proposta de atender o cliente da forma mais ra
 Nosso design foi pensado para atender todos os tipos de clientes, desde mais velhos a ate mais novos, com cores e paletras agradaveis visualmente podemos atrair todo o tipo de publico para o nosso site. O design dele foi pesando tambem para ser de facil acesso e agil, tendo funções bem destacadas e diretas, dificilmente ficaram perdidos no nosso site!
 </div>
 <br>
-<img src="1.png">
-
+<img src="readme-config/1.png">
 <br>
-<img src="2.png">
 
+<img src="readme-config/2.png">
 <br>
-<img src="3.png">
 
+<img src="readme-config/3.png">
 <br>
-<img src="4.png">
 
+<img src="readme-config/4.png">
 <br>
-<img src="5.png">
 
+<img src="readme-config/5.png">
 <br>
-<img src="6.png">
 
+<img src="readme-config/6.png">
 <br>
-<img src="7.png">
 
+<img src="readme-config/7.png">
 <br>
-<img src="8.png">
 
+<img src="readme-config/8.png">
 <br>
-<img src="9.png">
 
+<img src="readme-config/9.png">
 <br>
-<img src="10.png">
 
+<img src="readme-config/10.png">
 <br>
-<img src="11.png">
 
+<img src="readme-config/11.png">
 <br>
-<img src="12.png">
 
+<img src="readme-config/12.png">
 <br>
-<img src="13.png">
 
+<img src="readme-config/13.png">
 <br>
-<img src="14.png">
 
+<img src="readme-config/14.png">
 <br>
-<img src="15.png">
+
+<img src="readme-config/15.png">
+
