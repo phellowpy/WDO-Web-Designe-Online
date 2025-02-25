@@ -1,6 +1,6 @@
 # WDB - Web Designe Online  <img src="readme-config/WDO.png" wight="20px" height="30px">
 
-## Proposta  <img src="WDO.png" wight="20px" height="20px">
+## Proposta  <img src="readme-config/WDO.png" wight="20px" height="20px">
 <div style="font-size: 18px;">
 Imagina um site de freelancers... mas só para designers! Isso mesmo, um lugar exclusivo para conectar empresas e pessoas que precisam de design com profissionais criativos e talentosos.
 
@@ -10,15 +10,15 @@ E a melhor parte? Nosso site tem um chat interativo, onde você conversa direta
 
 </div>
 
-## Banco de dados  <img src="WDO.png" wight="20px" height="20px">
+## Banco de dados  <img src="readme-config/WDO.png" wight="20px" height="20px">
 <div style="font-size: 18px;">
 Nosso banco de dados foi feito na proposta de atender o cliente da forma mais rapida e melhor, nele contemos dois diagramas, um de entidade de relacionamento e outro de classes.
 
 </div>
 <br>
-<img src="requisitosFuncionaw.drawio.png">
+<img src="readme-config/requisitosFuncionaw.drawio.png">
 
-## Design  <img src="WDO.png" wight="20px" height="20px">
+## Design  <img src="readme-config/WDO.png" wight="20px" height="20px">
 
 <div style="font-size: 18px;">
 Nosso design foi pensado para atender todos os tipos de clientes, desde mais velhos a ate mais novos, com cores e paletras agradaveis visualmente podemos atrair todo o tipo de publico para o nosso site. O design dele foi pesando tambem para ser de facil acesso e agil, tendo funções bem destacadas e diretas, dificilmente ficaram perdidos no nosso site!
