@@ -16,13 +16,18 @@ Nosso banco de dados foi feito na proposta de atender o cliente da forma mais ra
 
 </div>
 <br>
-<img src="readme-config/bc-4.png">
-<img src="readme-config/bc-3.png">
+<img src="readme-config/D-ER.png">
+<img src="readme-config/D-back.png">
+<img src="readme-config/D-final.png">
+
+--------------------
 
 ## Design  <img src="readme-config/WDO.png" wight="20px" height="20px">
 
 <div style="font-size: 18px;">
 Nosso design foi pensado para atender todos os tipos de clientes, desde mais velhos a ate mais novos, com cores e paletras agradaveis visualmente podemos atrair todo o tipo de publico para o nosso site. O design dele foi pesando tambem para ser de facil acesso e agil, tendo funções bem destacadas e diretas, dificilmente ficaram perdidos no nosso site!
+
+Modificamos o design do protótipo para acrescentar mais páginas pois estava faltando algumas informações, colocamos mais implementos e modificamos algumas páginas que estavam prontas, modificamos a cor que estava muito infantil e a tipografia do site, deixamos mais organizado
 </div>
 <br>
 <img src="readme-config/1.png">
@@ -68,4 +73,40 @@ Nosso design foi pensado para atender todos os tipos de clientes, desde mais vel
 <br>
 
 <img src="readme-config/15.png">
+<br>
 
+<img src="readme-config/16.png">
+<br>
+
+<img src="readme-config/17.png">
+<br>
+
+<img src="readme-config/18.png">
+<br>
+
+<img src="readme-config/19.png">
+<br>
+
+<img src="readme-config/20.png">
+<br>
+
+<img src="readme-config/21.png">
+<br>
+
+<img src="readme-config/22.png">
+<br>
+
+<img src="readme-config/23.png">
+<br>
+
+<img src="readme-config/24.png">
+<br>
+
+<img src="readme-config/25.png">
+<br>
+
+<img src="readme-config/26.png">
+<br>
+
+<img src="readme-config/27.png">
+<br>
