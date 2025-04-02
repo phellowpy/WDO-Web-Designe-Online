@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro - WD</title>
+    <link rel="stylesheet" href="cadastro.css">
+</head>
+<body>
+    <header>
+        <div class="logo"> 
+            <img src="https://github.com/phellowpy/WDO-Web-Designe-Online/blob/main/logo.png?raw=true" alt="Logo WDO">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#">SOBRE NÓS</a></li>
+                <li><a href="#">QUERO CONTRATAR</a></li>
+                <li><a href="#">QUERO TRABALHAR</a></li>
+                <li><a href="#" class="login">LOGIN</a></li>
+                <li><a href="#" class="cadastro">CADASTRE-SE</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="cadastro-container">
+            <h2>SEJA BEM-VINDO</h2>
+            <form>
+                <input type="email" placeholder="E-mail" required>
+                <input type="text" placeholder="Nome de usuário" required>
+                <input type="text" placeholder="Nome de perfil" required>
+                <input type="tel" placeholder="Telefone" required>
+                <input type="password" placeholder="Senha" required>
+
+                <div class="tipo-conta">
+                    <label><input type="radio" name="tipo" value="empresa"> Empresa</label>
+                    <label><input type="radio" name="tipo" value="freelancer" checked> FreeLancer</label>
+                </div>
+
+                <button type="submit">CADASTRE-SE</button>
+            </form>
+        </section>
+    </main>
+</body>
+</html>
