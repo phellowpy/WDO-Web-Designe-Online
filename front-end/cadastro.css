@@ -6,11 +6,11 @@
 }
 
 body {
-    background-color: #bfbce2;
+    background-color: #e7e8eb;
 }
 
 header {
-    background-color: #0a0a52;
+    background-color: #02084b;
     color: white;
     display: flex;
     justify-content: space-between;
